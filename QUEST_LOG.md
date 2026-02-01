@@ -7,12 +7,12 @@
     - [x] **Concept**: Understand Statelessness & Tokens.
 
 ## Level 2: The Archive (Embeddings & Vectors)
-- [ ] **Quest 2.1: The Translator (Embeddings)** <!-- id: 1 -->
-    - Concept: What is an embedding?
-    - Action: Vectorize text.
-- [ ] **Quest 2.2: The Librarian (Vector Search)** <!-- id: 2 -->
-    - Concept: Cosine Similarity.
-    - Action: Build a simple Vector Store.
+- [x] **Quest 2.1: The Translator (Embeddings)** <!-- id: 1 -->
+    - [x] Concept: What is an embedding?
+    - [x] Action: Vectorize text.
+- [x] **Quest 2.2: The Librarian (Vector Search)** <!-- id: 2 -->
+    - [x] Concept: Cosine Similarity.
+    - [x] Action: Build a simple Vector Store.
 
 ## Level 3: The Synthesis (Simple RAG)
 - [ ] **Quest 3.1: The Weaver** <!-- id: 3 -->
