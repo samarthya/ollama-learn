@@ -28,3 +28,8 @@
 - [x] **Quest 5.1: The Automaton** <!-- id: 5 -->
     - [x] **Concept**: Tool Use (ReAct / Function Calling).
     - [x] **Action**: Give the LLM a tool (Calculator / Search).
+
+## Phase 2: Exhibition
+- [x] **Quest 6.1: The Mirror (UI)** <!-- id: 6 -->
+    - [x] **Concept**: User Interface & Session State.
+    - [x] **Action**: Build a Streamlit Chat App.
