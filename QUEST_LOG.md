@@ -15,9 +15,9 @@
     - [x] Action: Build a simple Vector Store.
 
 ## Level 3: The Synthesis (Simple RAG)
-- [ ] **Quest 3.1: The Weaver** <!-- id: 3 -->
-    - Concept: Context Injection.
-    - Action: Build the RAG loop.
+- [x] **Quest 3.1: The Weaver** <!-- id: 3 -->
+    - [x] **Concept**: Context Injection.
+    - [x] **Action**: Build the RAG loop.
 
 ## Level 4: The Critic (Evaluation)
 - [ ] **Quest 4.1: The Judge** <!-- id: 4 -->
