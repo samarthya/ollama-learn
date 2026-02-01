@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  rag-app:
+    build: .
+    container_name: rag_architect_app
+    ports:
+      - "8501:8501"
+    environment:
+      # CRITICAL: We need to tell the container where Ollama is.
+      # If running on Linux/WSL talking to Windows Host, utilize the specific IP used in scripts.
+      # We can override this in the Python script to respect the ENV var if present.
+      - OLLAMA_HOST_IP=http://172.22.112.1:11434
+    volumes:
+      # Mount the local code so we can edit live (optional dev mode)
+      - .:/app
+    command: streamlit run level6_app.py --server.port=8501 --server.address=0.0.0.0

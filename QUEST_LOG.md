@@ -33,3 +33,8 @@
 - [x] **Quest 6.1: The Mirror (UI)** <!-- id: 6 -->
     - [x] **Concept**: User Interface & Session State.
     - [x] **Action**: Build a Streamlit Chat App.
+
+## Phase 3: Deployment
+- [x] **Quest 7.1: The Capsule (Docker/Podman)** <!-- id: 7 -->
+    - [x] **Concept**: Containerization & Networking.
+    - [x] **Action**: Create Dockerfile and Compose file.

@@ -3,8 +3,11 @@ import ollama
 import time
 import sys
 
+import os
+
 # --- CONFIGURATION (Win Host Check) ---
-HOST = 'http://172.22.112.1:11434'
+# If running in Docker, we grab the env var. If running locally, we fallback to the known IP or localhost.
+HOST = os.getenv('OLLAMA_HOST_IP', 'http://172.22.112.1:11434')
 MODEL = "mistral"
 
 # --- PAGE SETUP ---
