@@ -20,8 +20,9 @@
     - [x] **Action**: Build the RAG loop.
 
 ## Level 4: The Critic (Evaluation)
-- [ ] **Quest 4.1: The Judge** <!-- id: 4 -->
-    - Concept: Grounding & Hallucination.
+- [x] **Quest 4.1: The Judge** <!-- id: 4 -->
+    - [x] **Concept**: Grounding & Hallucination.
+    - [x] **Action**: Implement a "ragas" or simple keyword check to verify answer source.
 
 ## Level 5: The Agent (Advanced)
 - [ ] **Quest 5.1: The Automaton** <!-- id: 5 -->
