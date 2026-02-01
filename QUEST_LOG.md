@@ -25,5 +25,6 @@
     - [x] **Action**: Implement a "ragas" or simple keyword check to verify answer source.
 
 ## Level 5: The Agent (Advanced)
-- [ ] **Quest 5.1: The Automaton** <!-- id: 5 -->
-    - Concept: Tool Use.
+- [x] **Quest 5.1: The Automaton** <!-- id: 5 -->
+    - [x] **Concept**: Tool Use (ReAct / Function Calling).
+    - [x] **Action**: Give the LLM a tool (Calculator / Search).
